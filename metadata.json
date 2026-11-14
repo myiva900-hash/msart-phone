@@ -1,0 +1,6 @@
+{
+  "name": "Yvan android",
+  "description": "A virtual rooted second-phone OS environment with 16 GB virtual storage, cinematic intro boot sequence, root superuser manager, terminal, phone apps, and full system customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
